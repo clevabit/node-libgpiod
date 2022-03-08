@@ -1,5 +1,5 @@
 {
-  "name": "node-libgpiod",
+  "name": "@clevabit/node-libgpiod",
   "version": "0.1.4-cb",
   "author": {
     "name": "Leonardo Silveira",
